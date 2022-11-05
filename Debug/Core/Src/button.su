@@ -1,0 +1,8 @@
+button.c:35:5:RST	4	static
+button.c:43:5:INC	4	static
+button.c:51:5:DEC	4	static
+button.c:61:5:INC_long	4	static
+button.c:69:5:DEC_long	4	static
+button.c:79:6:getKeyInputRST	8	static
+button.c:99:6:getKeyInputINC	8	static
+button.c:139:6:getKeyInputDEC	8	static
